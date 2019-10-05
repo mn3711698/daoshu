@@ -6,7 +6,7 @@
  * 修改后的开源链接 https://github.com/mn3711698/pushpy
  * 使用方法：
  * - app.js中引入此模块文件，然后初始化：App({ vPush: new vPush('你的API服务接口地址'), ..})
- * - 比如：new vPush("https://push.yjyzj.cn/api/1?")
+ * - 比如：new vPush("https://pushcom.yjyzj.cn/api?")
  * 其他提示：
  * - 这个SDK需要你配置你的小程序的request域名，为你部署好的API服务器地址。
  */
