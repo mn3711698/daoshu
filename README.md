@@ -1,9 +1,9 @@
 # daoshu
 ![image](https://github.com/mn3711698/daoshu/blob/master/qrcode.jpg)
-<br>本小程序代码是修改自丸子君的小独而来。
+<br>本小程序代码是https://github.com/mn3711698/dszmini项目适配新的推送处理。
 
 ## 说明  2019-10-05
-> 2019-09-29更新代码，增加埋点处理。埋点处理用的是libs目录
+> 2019-10-05更新代码。埋点处理用的是libs目录
 
 > libs 采用https://github.com/mn3711698/pushpy。
 
