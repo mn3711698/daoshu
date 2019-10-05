@@ -15,7 +15,7 @@ exports.default = App({
   globalData: {
     sUrl:'https://dsz.janedao.cn/api?viewid=home'
   },
-  vPush: new vPush('https://push.yjyzj.cn/api/1?'),
+  vPush: new vPush('https://pushcom.yjyzj.cn/api?'),
   onLaunch: function onLaunch() {
     _system2.default.attachInfo();
     this.login();

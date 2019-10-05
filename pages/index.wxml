@@ -163,31 +163,7 @@
         </form>
         <!--navigator url="/pages/favlist" open-type="navigate" hover-class="none"></navigator-->
       </view>
-      <!--view class="menu-list-box" bindtap="getCopyWechat">
-        <image src="../images/share_ic_vx.png" />
-        <view class="name">小程序端作者<text>Apollo&丸子君</text></view>
-        <image class="setting" src="../images/setting_ic_more.png" />
-      </view>
-      <view class="menu-list-box" bindtap="getCopyjdWechat">
-        <image src="../images/share_ic_vx.png" />
-        <view class="name">后台作者<text>简道</text></view>
-        <image class="setting" src="../images/setting_ic_more.png" />
-      </view-->
-      <!--view class="menu-more-box">
-        <view class="more-title">更多作品</view>
-        <view class="more-list-box">
-          <view class="more-list">
-            <image src="../images/weilai.png" />
-            <view>给未来寄封信</view>
-            <navigator target="miniProgram" open-type="navigate" app-id="wx25ea3f95faa1d6fb"></navigator>
-          </view>
-          <view class="more-list">
-            <image src="../images/xiaodu.png" />
-            <view>小独Lite</view>
-            <navigator target="miniProgram" open-type="navigate" app-id="wx03541f90871e5083"></navigator>
-          </view>
-        </view>
-      </view-->
+      
     </view>
   </ui-popup>
 
